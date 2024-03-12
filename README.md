@@ -20,7 +20,7 @@ Meu nome é Gabriel Leocádio, sou desenvolvedor front-end e esse é meu perfil!
 Segue algumas de minhas informações:
 
 - Trabalho há 6 anos com e-commerce com foco em VTEX (especialmente VTEX IO), o que me permitiu ter experiência com as tecnologias do mercado como React, Typescript, GraphQL, Node.js, entre outros, sempre tendo como objetivo a melhor usabilidade e performance do projeto.
-- 👨‍💻  **Tecnologias que utilizo no dia a dia:** HTML, CSS, Javascript React, Next.JS, Node, SASS, GraphQL.
-- 🛠 **Ferramentas que me auxiliam no dia a dia:** Visual Studio Code, Windows Terminal e WSL 2.
+- 👨‍💻  **Tecnologias que utilizo no dia a dia:** HTML, CSS, Javascript, TypeScript, React, Next.JS, Node, SASS, GraphQL.
+- 🛠 **Ferramentas que me auxiliam no dia a dia:** Visual Studio Code, Windows Terminal, WSL 2, Postman, Insomnia.
 - 💻 **Portfolio:** https://leocadio94.github.io
 - ✉ **E-mail de contato:** gabrielsilva94@gmail.com
