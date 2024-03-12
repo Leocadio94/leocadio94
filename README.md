@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Gabriel Leocádio, sou desenvolvedor front-end e esse é meu perfil!
+Meu nome é Gabriel Leocádio, sou Desenvolvedor Full Stack e esse é meu perfil!
+
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabrielleocadio%2F)](https://www.linkedin.com/in/gabrielleocadio/)
+[![E-mail](https://img.shields.io/badge/email-gray?style=flat&logo=gmail&link=mailto%3Agabrielsilva94%40gmail.com)](mailto:gabrielsilva94@gmail.com)
+
+
 
 Segue algumas de minhas informações:
 
