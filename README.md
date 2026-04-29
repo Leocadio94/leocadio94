@@ -24,8 +24,7 @@ Meu nome é Gabriel Leocádio, sou Desenvolvedor Full Stack e esse é meu perfil
 
 Segue algumas de minhas informações:
 
-- Trabalho há mais de 8 anos com e-commerce com foco em VTEX (especialmente VTEX IO e Faststore), o que me permitiu ter experiência com as tecnologias do mercado como React, Typescript, GraphQL, Node.js, entre outros, sempre tendo como objetivo a melhor usabilidade e performance do projeto.
+- Trabalho há mais de 9 anos com e-commerce com foco em VTEX (especialmente VTEX IO e Faststore), o que me permitiu ter experiência com as tecnologias do mercado como React, Typescript, GraphQL, Node.js, entre outros, sempre tendo como objetivo a melhor usabilidade e performance do projeto.
 - 👨‍💻  **Tecnologias que utilizo no dia a dia:** HTML, CSS, Javascript, TypeScript, React, Next.JS, Node, SASS, GraphQL.
 - 🛠 **Ferramentas que me auxiliam no dia a dia:** Visual Studio Code, Windows Terminal, WSL 2, Postman, Insomnia.
-- 💻 **Portfolio:** https://leocadio94.github.io
 - ✉ **E-mail de contato:** gabrielsilva94@gmail.com
