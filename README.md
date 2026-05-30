@@ -28,3 +28,4 @@ Segue algumas de minhas informações:
 - 👨‍💻  **Tecnologias que utilizo no dia a dia:** HTML, CSS, Javascript, TypeScript, React, Next.JS, Node, SASS, GraphQL.
 - 🛠 **Ferramentas que me auxiliam no dia a dia:** Visual Studio Code, Windows Terminal, WSL 2, Postman, Insomnia.
 - ✉ **E-mail de contato:** gabrielsilva94@gmail.com
+- 💻 **Portfolio:** https://leocadio.dev/
